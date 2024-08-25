@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS, HTML, JS, Python, Botpress, Node js, Express JS.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 8999855756 (please text)
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ... I am new!! :D
 
 <!---
