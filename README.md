@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitmay16
-- 👀 I’m interested in freelancing
+- 👀 I’m interested in freelancing, learn more, contribute to any projects. 
 - 🌱 I’m currently learning CSS, HTML, JS, Python, Botpress, Node js, Express JS.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 8999855756 (please text)
